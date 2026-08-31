@@ -1,6 +1,6 @@
 ---
 title: Een beetje chaos, veel energie
-cover: /media/blog/Roxie optreden 14 feb '26.jpeg
+cover: /media/blog/Roxie optreden 14 feb 26.jpeg
 cover_image_alt: Roxie optreden 14 februari 2026
 date: 2026-08-31
 description: "Zingen bij het jonge vrouwenkoor Roxie geeft me energie.
